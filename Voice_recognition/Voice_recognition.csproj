@@ -221,6 +221,7 @@
   <ItemGroup>
     <Content Include="Commands.txt" />
     <Content Include="mediacommands.txt" />
+    <None Include="Resources\Image1.bmp" />
     <Content Include="Resources\valid.jpg" />
     <None Include="RajDataSet.xsc">
       <DependentUpon>RajDataSet.xsd</DependentUpon>
