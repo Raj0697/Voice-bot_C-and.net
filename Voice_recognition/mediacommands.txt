@@ -1,0 +1,32 @@
+﻿play the song
+pause the song
+next song
+previous song
+stop the song
+open song folder
+open video folder
+select the song
+select the video
+next video
+previous video
+play the video
+pause the video
+stop the video
+play first song
+play second song
+alexa play
+play tokyo song
+play worldcup song
+play taki taki
+fullscreen mode
+normal mode
+decrease volume
+increase volume
+set full volume
+mute volume
+unmute
+show commands
+hide commands
+rewind
+forward
+exit

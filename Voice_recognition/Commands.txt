@@ -1,0 +1,58 @@
+﻿hello
+how are you
+what time is it
+what is today
+open google
+minimize
+maximize
+open office
+close office
+restart
+exit
+wake 
+hey robo
+sleep
+who developed you
+update
+show commands
+hide commands
+search for
+whats the weather like
+whats the temperature
+open spotify
+close spotify
+play
+pause
+next
+previous
+open media player
+close media player
+open explorer
+close explorer
+stop listening
+stop talking
+alexa tell me a joke
+alexa play a song
+change the song
+stop the song
+resume the song
+pause the song
+read selected text
+increase volume
+decrease volume
+mute volume
+increase speed
+decrease speed
+save the audio
+alexa can you stop talking for sometime
+alexa close your mouth
+alexa resume the application
+alexa start the application
+alexa read the input text
+alexa tell me something about yourself
+alexa tell me something about myself
+alexa tell me about the developer
+alexa select the male voice
+alexa select the female voice
+alexa Type something in the input box
+alexa clear the input box
