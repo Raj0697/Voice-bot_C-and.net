@@ -13,6 +13,9 @@ This is the voice based assistant bot windows application. you can access many a
 Project is created with:
 * Microsoft Visual Studio 2015
 * Microsft SQL Server 2017
+* Languages Used - C# and .NET
+* Packages Used - Speech Recognition and Speech Synthesis
+* Classes Used - SpeechSynthesizer, PrmoptBuilder, and SpeechRecognitionEngine
 	
 ## Setup
 To run this project, install microsoft visual studio 2015 and install github extension and restart the visual studio:
